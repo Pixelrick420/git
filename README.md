@@ -1,3 +1,6 @@
 # git
-tinkerhub git tutorial
-this line should be pushed to the repository
+Tinkerhub git tutorial 
+
+This line should be pushed to the repository
+
+Added new line to readme
